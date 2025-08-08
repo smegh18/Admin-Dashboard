@@ -248,6 +248,12 @@ yarn test
 ## Deployed Link
 https://admindashboard180320.web.app/
 
+## Contributors
+
+- **Megh Sankhla**
+
+- **Raghav Arora**
+
 
 
 
