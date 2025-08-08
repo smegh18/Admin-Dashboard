@@ -1,4 +1,4 @@
-# Demand24 Marketplace Admin Panel
+# Marketplace Admin Panel
 
 A comprehensive multi-role administration panel for the Demand24 marketplace platform, supporting restaurants, delivery services, booking management, and e-commerce operations.
 
